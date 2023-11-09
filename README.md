@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center fw-bold display-1 ls-n2 gradient_purple">Bootstrap Ninja</h3>
+<h3 align="center ">Bootstrap Ninja</h3>
 
 <p align="center">
   Introducing The Ninja Bootstrap project: Elevating Bootstrap 5 with Extended SCSS
